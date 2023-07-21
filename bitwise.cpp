@@ -1,3 +1,4 @@
+// Given a array with every number repeated twice except one . print that number using bitwise XOR operator in C language.
 #include<stdio.h>
 
 int main(){
