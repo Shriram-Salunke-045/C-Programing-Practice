@@ -1,6 +1,6 @@
 // Write a program to generate a table of number in c language
 
-# include<stdio.h>
+#include<stdio.h>
 int main(){
 	int num,i;
 	printf("Enter the number : ");
